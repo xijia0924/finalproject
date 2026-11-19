@@ -22,8 +22,7 @@ package and its pkgdown website.
 
 The first analysis will use data from the National Health and Nutrition
 Examination Survey (NHANES), conducted by the National Center for Health
-Statistics at the CDC. I plan to access the data through the NHANES R
-package used in class.
+Statistics at the CDC.
 
 #### Research Questions
 
@@ -49,19 +48,17 @@ NHANES survey design.
 
 #### Limitations
 
-Because NHANES is observational and cross-sectional, the analysis cannot
-establish causal relationships. Missing data, potential confounding, and
-the complex survey design may also affect interpretation.
+Because NHANES is observational and cross sectional, the analysis cannot
+establish causal relationships. Missing data and potential confounding
+may also affect interpretation.
 
 ### Analysis 2: CDC Waterborne Illnesses
 
 #### Data Source
 
-The second analysis will use the CDC waterborne illness dataset
-available in the finalproject R package through
-`data("waterborne", package = "finalproject")`. I will document the
-original data source, coverage, variable definitions, and any relevant
-reporting limitations.
+The second analysis will use the CDC waterborne illness dataset. I will
+document the original data source, coverage, variable definitions, and
+any relevant reporting limitations.
 
 #### Research Questions
 
