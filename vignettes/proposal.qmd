@@ -52,7 +52,7 @@ Line plots will be used to visualize changes over time, while bar charts or geog
 
 ### Limitations
 
-Reported outbreaks may not represent the true burden of waterborne disease because of underreporting, differences in surveillance practices, and incomplete records. Temporal or geographic differences will therefore be interpreted cautiously.
+Reported outbreaks may not represent the true burden of waterborne disease because of differences in surveillance practices and incomplete records. Temporal or geographic differences will therefore be interpreted cautiously.
 
 ## Expected Deliverables
 
