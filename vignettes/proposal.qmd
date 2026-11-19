@@ -9,6 +9,7 @@ format: html
 # From: Jia Xi
 # Final Project Proposal
 
+
 ## Project Overview
 
 For my BST260 final project, I plan to investigate two public health topics using datasets introduced in class. The project will consist of two separate analytical vignettes, focusing on hypertension risk factors in the NHANES dataset and patterns of waterborne disease outbreaks in the United States. I will use R for data exploration, visualization, and statistical analysis, and present the results through the finalproject R package and its pkgdown website.
@@ -17,7 +18,7 @@ For my BST260 final project, I plan to investigate two public health topics usin
 
 ### Data Source
 
-The first analysis will use data from the National Health and Nutrition Examination Survey (NHANES), conducted by the National Center for Health Statistics at the CDC. I plan to access the data through the NHANES R package used in class.
+The first analysis will use data from the National Health and Nutrition Examination Survey (NHANES), conducted by the National Center for Health Statistics at the CDC.
 
 ### Research Questions
 
@@ -31,13 +32,13 @@ I plan to compare hypertension prevalence across demographic groups and use logi
 
 ### Limitations
 
-Because NHANES is observational and cross-sectional, the analysis cannot establish causal relationships. Missing data, potential confounding, and the complex survey design may also affect interpretation.
+Because NHANES is observational and cross sectional, the analysis cannot establish causal relationships. Missing data and potential confounding may also affect interpretation.
 
 ## Analysis 2: CDC Waterborne Illnesses
 
 ### Data Source
 
-The second analysis will use the CDC waterborne illness dataset available in the finalproject R package through `data("waterborne", package = "finalproject")`. I will document the original data source, coverage, variable definitions, and any relevant reporting limitations.
+The second analysis will use the CDC waterborne illness dataset. I will document the original data source, coverage, variable definitions, and any relevant reporting limitations.
 
 ### Research Questions
 
