@@ -78,9 +78,9 @@ across time periods or outbreak categories.
 ### Limitations
 
 Reported outbreaks may not represent the true burden of waterborne
-disease because of underreporting, differences in surveillance
-practices, and incomplete records. Temporal or geographic differences
-will therefore be interpreted cautiously.
+disease because of differences in surveillance practices and incomplete
+records. Temporal or geographic differences will therefore be
+interpreted cautiously.
 
 ## Expected Deliverables
 
