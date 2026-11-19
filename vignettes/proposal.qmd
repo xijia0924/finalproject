@@ -5,11 +5,7 @@ date: "2026-11-18"
 format: html
 ---
 
-**To:** BST260 Teaching Team, Fall 2026
-
-**From:** Jia Xi
-
-**Subject:** Final Project Proposal
+#Final Project Proposal
 
 ## Project Overview
 
