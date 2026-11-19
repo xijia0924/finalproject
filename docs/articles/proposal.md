@@ -1,8 +1,12 @@
 # BST260 Final Project Proposal
 
-\#Final Project Proposal
+## To: BST260 Teaching Team, Fall 2026
 
-## Project Overview
+## From: Jia Xi
+
+## Final Project Proposal
+
+### Project Overview
 
 For my BST260 final project, I plan to investigate two public health
 topics using datasets introduced in class. The project will consist of
@@ -12,16 +16,16 @@ the United States. I will use R for data exploration, visualization, and
 statistical analysis, and present the results through the finalproject R
 package and its pkgdown website.
 
-## Analysis 1: NHANES
+### Analysis 1: NHANES
 
-### Data Source
+#### Data Source
 
 The first analysis will use data from the National Health and Nutrition
 Examination Survey (NHANES), conducted by the National Center for Health
 Statistics at the CDC. I plan to access the data through the NHANES R
 package used in class.
 
-### Research Questions
+#### Research Questions
 
 I am interested in examining how BMI, age, and sex are associated with
 hypertension. Specifically, I plan to investigate whether hypertension
@@ -29,7 +33,7 @@ prevalence differs across BMI categories and age groups, and whether the
 association between BMI and hypertension remains after accounting for
 age and sex.
 
-### Proposed Methods
+#### Proposed Methods
 
 I will first examine the structure of the dataset, identify relevant
 variables, and summarize missing values. Descriptive statistics and
@@ -43,15 +47,15 @@ can be constructed from the available variables. I will report effect
 estimates and uncertainty measures and consider the implications of the
 NHANES survey design.
 
-### Limitations
+#### Limitations
 
 Because NHANES is observational and cross-sectional, the analysis cannot
 establish causal relationships. Missing data, potential confounding, and
 the complex survey design may also affect interpretation.
 
-## Analysis 2: CDC Waterborne Illnesses
+### Analysis 2: CDC Waterborne Illnesses
 
-### Data Source
+#### Data Source
 
 The second analysis will use the CDC waterborne illness dataset
 available in the finalproject R package through
@@ -59,7 +63,7 @@ available in the finalproject R package through
 original data source, coverage, variable definitions, and any relevant
 reporting limitations.
 
-### Research Questions
+#### Research Questions
 
 I plan to examine how reported waterborne disease outbreaks vary over
 time and across geographic areas in the United States. I am particularly
@@ -67,7 +71,7 @@ interested in identifying temporal trends, geographic differences, and
 patterns in outbreak characteristics where sufficient information is
 available.
 
-### Proposed Methods
+#### Proposed Methods
 
 I will begin by inspecting the dataset and assessing data completeness.
 I will then calculate descriptive statistics for reported outbreaks and
@@ -78,14 +82,14 @@ or geographic visualizations will be used to compare locations.
 Depending on the available variables, I may also explore differences
 across time periods or outbreak categories.
 
-### Limitations
+#### Limitations
 
 Reported outbreaks may not represent the true burden of waterborne
 disease because of underreporting, differences in surveillance
 practices, and incomplete records. Temporal or geographic differences
 will therefore be interpreted cautiously.
 
-## Expected Deliverables
+### Expected Deliverables
 
 The final project will include a valid R package and a publicly
 accessible pkgdown website. I plan to develop two separate vignettes,
