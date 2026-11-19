@@ -2,21 +2,20 @@
 
 ## Authors
 
-- **yourfirstname lastname**. Author, maintainer.
-  [](https://orcid.org/0000-0002-1825-0097)
+- **Jia Xi**. Author, maintainer.
 
 ## Citation
 
 Source:
-[`DESCRIPTION`](https://github.com/vjcitn/bst260project-template/NA/NA/NA/blob/HEAD/DESCRIPTION)
+[`DESCRIPTION`](https://github.com/xijia0924/finalproject/blob/HEAD/DESCRIPTION)
 
-lastname y (2026). *bst260project: project code and narrative*. R
-package version 0.0.3, <https://github.com/youreponame>.
+Xi J (2026). *finalproject: Public Health Data Analysis*. R package
+version 0.0.3, <https://github.com/xijia0924/finalproject>.
 
     @Manual{,
-      title = {bst260project: project code and narrative},
-      author = {yourfirstname lastname},
+      title = {finalproject: Public Health Data Analysis},
+      author = {Jia Xi},
       year = {2026},
       note = {R package version 0.0.3},
-      url = {https://github.com/youreponame},
+      url = {https://github.com/xijia0924/finalproject},
     }
