@@ -1,20 +1,23 @@
-Package: bst260project
-Title: project code and narrative
+Package: finalproject
+Title: Public Health Data Analysis
 Version: 0.0.3
 Authors@R:
-    person(given = "yourfirstname",
-           family = "lastname",
+    person(given = "Jia",
+           family = "Xi",
            role = c("aut", "cre"),
-           email = "youremail@gmail.com",
-           comment = c(ORCID = "0000-0002-1825-0097"))
-Description: provide text on what your project emphasizes and 
-	accomplishes in three or more complete sentences.
+           email = "jiaxi@hsph.harvard.edu")
+Description: This package presents analyses of public health datasets
+    using statistical methods and visualization techniques introduced
+    in BST260. It investigates relationships between health outcomes
+    and demographic or geographic characteristics. The project
+    documents data sources, analytical findings, uncertainties,
+    and limitations through reproducible reports.
 Depends: R (>= 4.5.0)
 Suggests: knitr, testthat, rmarkdown, pkgdown
 License: Artistic-2.0
 VignetteBuilder: quarto
 Encoding: UTF-8
-URL: https://github.com/youreponame
-BugReports: https://github.com/youreponame/issues
+URL: https://github.com/xijia0924/finalproject
+BugReports: https://github.com/xijia0924/finalproject/issues
 Config/roxygen2/version: 8.1.1
 Roxygen: list(markdown=TRUE)
